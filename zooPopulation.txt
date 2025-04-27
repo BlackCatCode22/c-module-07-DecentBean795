@@ -1,0 +1,24 @@
+Hyena Habitat:
+Hy01; Shenzi; birth date 2020-03-15; tan; female; 70 pounds; from Friguia Park; arrived 2024-03-05
+Hy02; Banzai; birth date 2012-09-15; brown; male; 150 pounds; from Friguia Park; arrived 2024-03-05
+Hy03; Ed; birth date 2020-03-15; black; male; 120 pounds; from Friguia Park; arrived 2024-03-05
+Hy04; Zig; birth date 2016-01-01; black and tan striped; female; 105 pounds; from Friguia Park; arrived 2024-03-05
+
+Lion Habitat:
+Li01; Scar; birth date 2018-03-15; tan; female; 300 pounds; from Zanzibar; arrived 2024-03-05
+Li02; Mufasa; birth date 2012-12-15; dark tan; female; 375 pounds; from KopeLion; arrived 2024-03-05
+Li03; Simba; birth date 2002-09-15; golden; male; 450 pounds; from Zanzibar; arrived 2024-03-05
+Li04; Kiara; birth date 2020-03-15; tan and brown; female; 275 pounds; from KopeLion; arrived 2024-03-05
+
+Tiger Habitat:
+Ti01; Unnamed; birth date 2022-03-15; gold and tan stripes; male; 270 pounds; from Dhaka; arrived 2024-03-05
+Ti02; Unnamed; birth date 2020-03-15; black stripes; female; 400 pounds; from Dhaka; arrived 2024-03-05
+Ti03; Unnamed; birth date 2006-09-15; gold and tan; male; 300 pounds; from Bardia; arrived 2024-03-05
+Ti04; Unnamed; birth date 2021-03-15; black stripes; female; 285 pounds; from Bardia; arrived 2024-03-05
+
+Bear Habitat:
+Be01; Yogi; birth date 2017-03-15; brown; male; 320 pounds; from Alaska Zoo; arrived 2024-03-05
+Be02; Smokey; birth date 1999-03-15; black; female; 425 pounds; from Woodland park Zoo; arrived 2024-03-05
+Be03; Paddington; birth date 2020-09-15; black; female; 355 pounds; from Woodland park Zoo; arrived 2024-03-05
+Be04; Lippy; birth date 2020-03-15; brown; male; 405 pounds; from Alaska Zoo; arrived 2024-03-05
+
